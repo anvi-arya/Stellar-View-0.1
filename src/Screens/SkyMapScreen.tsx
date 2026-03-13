@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from "react-native";
 export default function SkyMapScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>🌌 StellarView</Text>
+      <Text style={styles.title}>Explore</Text>
       <Text>Sky Map screen</Text>
     </View>
   );
